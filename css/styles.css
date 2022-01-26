@@ -9,17 +9,9 @@ body{
 
 }
 
-
-
-
-
-
-
-
-
 /***********************************Class SELECTOR*****************************/
 .main-container{
-  margin: 150px auto;
+  margin: 150px auto 0 auto;
   border-radius: 15px;
   background-color: white;
   width: 280px;
@@ -45,4 +37,9 @@ body{
   width: 80%;
   color: hsl(220, 15%, 55%);
   font-weight: 400;
+}
+
+.attribution{
+  margin-top: 30px;
+  color: black;
 }
